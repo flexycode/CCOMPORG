@@ -157,32 +157,29 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 # 🔭 Acknowledgements   
 
-### ✨ Professor Mrs. Jensen A. Santillan  
+### ✨ Professor TBA
 ```
-Professor Jensen background profile coming soon...
+Professor TBA background profile coming soon...
 ```
 
 # 📫 Changelogs
 ```
-## [8.0.4] - 2024-08-05      
+## [8.0.4] - 2024-09-22     
 ### Added  
-- ✨ Coming Soon
-- ✨ Coming Soon
+- ✨ Create Repository
 
 ### Changed
-- ✨ Coming Soon
+- ✨ Folder set rename
 
 ### Fixed 
-- ✨ Coming Soon
+- ✨ Fix changelogs
 
 🧊 CCOMPORG
 
 ```
 
-
-
 <!-- Introduction Pannel button link, it will redirect to the top -->
-#### [Back to Table of Content](#-ccobjpgl---object-oriented-programming-in-java)
+#### [Back to Table of Content](#-introduction)
 
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
 ---
