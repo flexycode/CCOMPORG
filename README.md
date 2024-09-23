@@ -42,6 +42,7 @@ Coming Soon
 Coming Soon
 Coming Soon
 Coming Soon
+Coming Soon
 ```
 
 
@@ -173,6 +174,10 @@ Professor TBA background profile coming soon...
 
 ### Fixed 
 - ✨ Fix changelogs
+
+## [8.0.4] - 2024-09-23    
+### Added  
+- ✨ Coming Soon
 
 🧊 CCOMPORG
 
