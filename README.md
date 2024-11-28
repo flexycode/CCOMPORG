@@ -1,7 +1,7 @@
 # 💫 CCOMPORG - COMPUTER ORGANIZATION AND ARCHITECTURE
 
 ### Name: Jay Arre Talosig  
-### Subject & Section: CCOMPORG - Coming Soon
+### Subject & Section: CCOMPORG - 231
 ### Professor: Coming Soon      
 ### No. of Units: 3 Units
 ### Prerequisite: [CCOBJPGL - Object Oriented Programming](https://github.com/flexycode/CCOBJPGL-JAVA)
