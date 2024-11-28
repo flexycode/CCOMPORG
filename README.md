@@ -1,18 +1,16 @@
 # 💫 CCOMPORG - COMPUTER ORGANIZATION AND ARCHITECTURE
 
 ### Name: Jay Arre Talosig  
-### Subject & Section: CCOMPORG - 231
-### Professor: Coming Soon      
+### Subject & Section: CCOMPORG - COM231
+### Professor: Jay Abaleta      
 ### No. of Units: 3 Units
 ### Prerequisite: [CCOBJPGL - Object Oriented Programming](https://github.com/flexycode/CCOBJPGL-JAVA)
 
 ## 🧠 Overview
-```
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-```
+
+The course covers the general introduction to the computer organization and architecture concept. The key concepts on RISC-based instruction set, pipeline and pipeline
+hazard, performance measure, and Amdahl’s law will be discussed. It also covers design issues of computer architecture, specifically set design and instruction level parallelism.
+
 
 ## 📋 Table of Contents
 
