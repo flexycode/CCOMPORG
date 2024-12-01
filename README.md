@@ -60,6 +60,9 @@ Coming Soon
 Coming Soon
 Coming Soon
 ```
+```
+https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
+```
 
 <!--
 | Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
