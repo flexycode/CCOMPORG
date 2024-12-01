@@ -1,6 +1,6 @@
 # 💫 CCOMPORG - COMPUTER ORGANIZATION AND ARCHITECTURE
 
-### Name: Jay Arre Talosig  
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: CCOMPORG - COM231
 ### Professor: Jay Abaleta      
 ### No. of Units: 3 Units
@@ -35,13 +35,8 @@ Coming Soon
 
 ## 👷 Usage
 
-```
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-```
+The course covers the general introduction to the computer organization and architecture concept. The key concepts on RISC-based instruction set, pipeline and pipeline
+hazard, performance measure, and Amdahl’s law will be discussed. It also covers design issues of computer architecture, specifically set design and instruction level parallelism.
 
 
 ## 🚀 Key Features
@@ -157,13 +152,15 @@ This project is provided "as is" without warranty of any kind, express or implie
 # 🔭 Acknowledgements   
 
 ### ✨ Professor TBA
-```
-Professor TBA background profile coming soon...
-```
+
+Professor Jay Abaleta is a Senior Software Engineer and esteemed faculty member at National University. With a strong background in teaching the core principles and advanced concepts of Java, he is highly regarded in the field. In addition to his role at National University, Prof. Abaleta also serves as a Professor at Adamson University and as a lecturer of IT/CS at Arba Minch University, sharing his expertise with students worldwide. Having studied at St. Paul University Philippines, Prof. Abaleta brings a wealth of knowledge and experience to his teaching. Known for his friendly and approachable nature, Prof. Abaleta fosters a positive learning environment where students thrive. His dedication and passion for teaching have made him a beloved professor among his students.
+
+### ✨ Give credit to where it's due
+I want to acknowledge that I have incorporated some of my professor's files and code into my work.
 
 # 📫 Changelogs
 ```
-## [8.0.4] - 2024-09-22     
+## [9.0.4] - 2024-09-22     
 ### Added  
 - ✨ Create Repository
 
@@ -173,9 +170,16 @@ Professor TBA background profile coming soon...
 ### Fixed 
 - ✨ Fix changelogs
 
-## [8.0.4] - 2024-09-23    
+## [11.0.2] - 2024-11-25    
 ### Added  
-- ✨ Coming Soon
+- ✨ Fix Documentation
+- ✨ Added Week 0 - Course Outline and Timeframe
+
+
+## [12.0.1] - 2024-12-02    
+### Added  
+- ✨ Added Week 1 - Intro to Computer Organization & Architecture
+
 
 🧊 CCOMPORG
 
