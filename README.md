@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCOMPORG/blob/main/assets/asset1.jpg" />
+
 # 💫 CCOMPORG - COMPUTER ORGANIZATION AND ARCHITECTURE
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
@@ -24,7 +27,11 @@ hazard, performance measure, and Amdahl’s law will be discussed. It also cover
 - [Changelogs](#-changelogs)
 
 
+
 ## 🛸 Introduction
+
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCOMPORG/blob/main/assets/asset2.jpg" />
 
 In a world increasingly driven by technology, understanding how computers work at a fundamental level is more important than ever. CCOMPORG provides a comprehensive exploration of computer architecture, covering everything from basic principles to advanced topics. This repository serves as a resource for students, educators, and professionals alike, offering insights into the design and functionality of computer systems. Get ready to embark on a journey through the layers of abstraction that make up the hardware and software interplay!
 
