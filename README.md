@@ -1,7 +1,7 @@
 # 💫 CCOMPORG - COMPUTER ORGANIZATION AND ARCHITECTURE
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
-### Subject & Section: CCOMPORG - COM231
+### Subject & Section: [CCOMPORG - COM231](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 ### Professor: Jay Abaleta      
 ### No. of Units: 3 Units
 ### Prerequisite: [CCOBJPGL - Object Oriented Programming](https://github.com/flexycode/CCOBJPGL-JAVA)
@@ -26,12 +26,7 @@ hazard, performance measure, and Amdahl’s law will be discussed. It also cover
 
 ## 🛸 Introduction
 
-```
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-```
+In a world increasingly driven by technology, understanding how computers work at a fundamental level is more important than ever. CCOMPORG provides a comprehensive exploration of computer architecture, covering everything from basic principles to advanced topics. This repository serves as a resource for students, educators, and professionals alike, offering insights into the design and functionality of computer systems. Get ready to embark on a journey through the layers of abstraction that make up the hardware and software interplay!
 
 ## 👷 Usage
 
@@ -41,12 +36,11 @@ hazard, performance measure, and Amdahl’s law will be discussed. It also cover
 
 ## 🚀 Key Features
 
-```
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-```
+**In-Depth Tutorials**: Step-by-step guides on essential topics such as CPU architecture, memory hierarchy, and instruction sets.
+**Interactive Examples**: Hands-on coding examples and simulations to reinforce learning and enhance understanding.
+**Visual Aids**: Diagrams and flowcharts that simplify complex concepts and provide clear visual representations.
+**Real-World Applications**: Case studies demonstrating how theoretical concepts apply to modern computing technologies.
+**Resource Library**: A curated collection of articles, papers, and tools for further exploration and learning.
 
 ## 📈 [Lesson](#lesson)  
 
@@ -121,17 +115,12 @@ coming soon...
 ```
 
 # 🏆 Contributing
-```
-coming soon...
-```
+
+We welcome contributions from the community! If you’re passionate about computer organization and architecture, feel free to fork the repository, submit pull requests, and share your insights. Together, we can build a comprehensive resource that helps others navigate the fascinating world of computing. Check out our CONTRIBUTING.md for guidelines on how to get involved!
 
 # 🔑 License
-```
-coming soon...
-```
-<!-- 
-This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CCDATRCL/blob/main/LICENSE) 
--->
+
+CCOMPORG is licensed under the MIT License. Feel free to use, modify, and distribute the content as long as proper attribution is provided. See the LICENSE.md file for more details.
 
 ## National University of Manila License   
 
