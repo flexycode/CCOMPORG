@@ -174,10 +174,13 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 - ✨ Fix Documentation
 - ✨ Added Week 0 - Course Outline and Timeframe
 
-
 ## [12.0.1] - 2024-12-02    
 ### Added  
 - ✨ Added Week 1 - Intro to Computer Organization & Architecture
+
+## [12.0.1] - 2024-12-05    
+### Added  
+- ✨ Added Week 2 - "
 
 
 🧊 CCOMPORG
