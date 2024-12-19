@@ -1,0 +1,26 @@
+Part 1 Binary Arithmetic
+
+Answer Only:
+1. 101101
+2. 0100010 base 2
+3. 10111010 base 2
+4. 111 base 2
+5. 110 base 2
+
+Part 2: Octal Arithmetic
+
+Answer Only:
+1. 13603 base 8 
+2. 03726 base 8 
+3. 430255 base 8 
+4. 5054 base 8 
+5. 1546 base 8 
+
+Part 3: Hexadecimal Arithmetic
+
+Answer Only:
+1. 0A47E base 16 
+2. FFF5A base 16 
+3. F966 base 16 
+4. E20 base 16 
+5. 9BD0 base 16 
