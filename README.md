@@ -180,8 +180,11 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 
 ## [12.0.1] - 2024-12-05    
 ### Added  
-- ✨ Added Week 2 - "
+- ✨ Added Week 2 - CPU Performance and Issues
 
+## [12.0.1] - 2024-12-09    
+### Added  
+- ✨ Added Week 2 - CPU Performance and Issues
 
 🧊 CCOMPORG
 
