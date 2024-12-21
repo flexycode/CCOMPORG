@@ -184,7 +184,11 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 
 ## [12.0.1] - 2024-12-09    
 ### Added  
-- ✨ Added Week 2 - CPU Performance and Issues
+- ✨ Added Week 3 - Mathematical Operations
+
+## [12.0.1] - 2024-12-12    
+### Added  
+- ✨ Added Week 4 - Octal Arithmetic Number System
 
 🧊 CCOMPORG
 
