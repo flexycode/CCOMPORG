@@ -56,65 +56,58 @@ hazard, performance measure, and Amdahl’s law will be discussed. It also cover
 #### Delivery Mode: Discussion, Program demonstration, Synchronous Class, Face-to-face
 
 ```
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-```
-```
 https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
 ```
 
-<!--
+
 | Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
 |----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 0        | November 25   | Class Orientation                                    | Course Syllabus                                                                                     |  
 |          |               | - Ø Course Outline and Timeframe                     |                                                                                                     | 
 |          |               | - Ø Review of course                                 |                                                                                                     |   
 |          |               | - Ø Couse Outline and Timeframe                      |                                                                                                     |  
-|          |               | - Ø Array Processing and Manipulation                |                                                                                                     |
-|          | August 8      | - Ø Abstract Data Types (ADTs)                       | Course Materials, PPT, Sample Programs                                                              |    
-|          |               | - Ø Introduction to Data Structures                  |                                                                                                     |
-| 1        | August 12     | 2.1 - Classes / Structure                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCOMPORG)                 |
-|          |               | 2.2 - Class Definition                               |                                                                                                     |
-|          | August 15     | Type Definition                                      |                                                                                                     |
+|          |               | - Ø CCOMPORG                                         |                                                                                                     |
+|          | November 25   | - Ø Couse Outline and Timeframe                      | Course Materials, PPT, Sample Programs                                                              |    
+|          |               | - Ø Introduction to CCOMPORG                         |                                                                                                     |
+| 1        | December 2    | 1.1 - Intro to Computer Organization & Architecture  | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCOMPORG)                 |
+|          |               | 1.2 - Module 1                                       |                                                                                                     |
+|          |               | Type Definition                                      |                                                                                                     |
 |          |               | Involving structures                                 |                                                                                                     |
-| 3        | August 19     | 3.1 - Linked-list                                    | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
-|          |               | 3.2 - Linked-list operations                         |                                                                                                    |
-|          | August 22     | 3.3 - Linked-list traversal                          |                                                                                                    |
+| 2        | December 5    | 2.1 - CPU Performance and Issues                     | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
+|          |               | 2.2 - CPU Performance and Issues                     |                                                                                                     |
+|          |               | 2.3 - CPU Performance and Issues                     |                                                                                                     |
+|          |               |                                                      |                                                                                                     |
+| 3        | December 9    | 3.1 - Mathematical Operations                        | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCOMPORG)                 |
+|          |               | 3.2 - Mathematical Operations                        |                                                                                                     |     
+|          |               | 3.3 - Mathematical Operations                        |                                                                                                     | 
+|          |               | 3.4 - Mathematical Operations                        |                                                                                                    |   
+|          |               |                                                      |                                                                                                     | 
+| 4        | December 12   | 4.1 Octal Arithmetic Number System                   | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
+|          |               | 4.2 Octal Arithmetic Number System                   |                                                                                                     |
+| 5        | December 16   | 5.1 Hexadecimal Arithmetic                           |                                                                                                     |
+|          |               | 5.2 Hexadecimal Arithmetic                           |                                                                                                     |
+|          |               |                                                      |                                                                                                     |
+| 6        | December 19   | 6.1 Long Quiz                                        | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCOMPORG)                 |
+|          |               | 6.2 Long Quiz                                        |                                                                                                    |
+|          |               | MIDTERM EXAM                                         |                                                                                                     |
+| 7        | January TBA   | 7.1 TBA                                              |                                                                                                     |
+|          |               | 7.2 TBA                                              |                                                                                                     |
+|          |               | 7.3 TBA                                              |                                                                                                     |   
+|          |               |                                                      |                                                                                                     |
+| 8        | January TBA   | 8.1 TBA                                              | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
+|          |               | 8.2 TBA                                              |                                                                                                     |
+| 9        | January TBA   | 9.1 TBA                                              |                                                                                                     |
+|          |               | 9.1 TBA                                              |                                                                                                     |
 |          |               |                                                      |                                                                                                    |
-| 4        | August 26     | 4.1 - Stack Definition                               | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCOMPORG)                 |
-|          |               | 4.2 - Stack Application                              |                                                                                                    |     
-|          | August 28     | 4.3 - Stack Implementation using an Array            |                                                                                                    | 
-|          |               | 4.4 - Stack Implementation using a Linked-list       |                                                                                                    |   
-|          |               |                                                      |                                                                                                    | 
-| 5        | September 2   | 5.1 Queue Definition                                 | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
-|          |               | 5.2 Queue Application                                |                                                                                                    |
-| 6        | September 12  | 5.3 Queue Implementation using an Array              |                                                                                                    |
-|          |               | 5.4 Queue Implementation using a Linked-list         |                                                                                                    |
+| 10       | January TBA   | 10.1 Graph Definition                                | [Kindly give my repo_a star here💫](https://github.com/flexycode/CCOMPORG)                        |
+|          |               | 10.2 Graph Application                               |                                                                                                    |
+| 11       | January TBA   | 11.1 Graph Representation                            |                                                                                                    |
+|          |               | 11.2 Graph Traversal                                 |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 7        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCOMPORG)                  |
-|          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
-|          |               | MIDTERM EXAM                                         |                                                                                                    |
-| 8        | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
-|          |               | 6.4 Binary Search Trees                              |                                                                                                    |
-|          |               | 6.5 Heap                                             |                                                                                                    |   
-|          |               |                                                      |                                                                                                    |
-| 9        | September 30  | 7.1 Hash Table                                       | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
-|          |               | 7.2 Hash Table Operations                            |                                                                                                    |
-| 10       | October 10    | 7.3 Open Hashing                                     |                                                                                                    |
-|          |               | 7.4 Closed Hashing                                   |                                                                                                    |
-|          |               |                                                      |                                                                                                    |
-| 11       | October 14    | 8.1 Graph Definition                                 | [Kindly give my repo_a star here💫](https://github.com/flexycode/CCOMPORG)                        |
-|          |               | 8.2 Graph Application                                |                                                                                                    |
-| 12       | October 24    | 8.3 Graph Representation                             |                                                                                                    |
-|          |               | 8.4 Graph Traversal                                  |                                                                                                    |
-|          |               |                                                      |                                                                                                    |
-| 13       | October 28    | Presentation of Final Project                        | [Kindly give my_repo a star here💫](https://github.com/robitussin/CCOMPORG)                        |
-|          | November 7    |                                                      |                                                                                                    |
+| 12       | February TBA  | Presentation of Final Project                        | [Kindly give my_repo a star here💫](https://github.com/robitussin/CCOMPORG)                        |
+|          | February TBA  |                                                      |                                                                                                    |
 
 
-```-->
 
 # 📜 Folder Structure
 ```
