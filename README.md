@@ -190,6 +190,14 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 ### Added  
 - ✨ Added Week 4 - Octal Arithmetic Number System
 
+## [12.0.1] - 2024-12-16    
+### Added  
+- ✨ Added Week 5 - Hexadecimal Arithmetic
+
+## [12.0.1] - 2024-12-19    
+### Added  
+- ✨ Long Quiz 
+
 🧊 CCOMPORG
 
 ```
