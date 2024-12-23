@@ -89,10 +89,10 @@ https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
 |          |               |                                                      |                                                                                                     |
 | 6        | December 19   | 6.1 Long Quiz                                        | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCOMPORG)                 |
 |          |               | 6.2 Long Quiz                                        |                                                                                                    |
-|          |               | MIDTERM EXAM                                         |                                                                                                     |
-| 7        | January TBA   | 7.1 TBA                                              |                                                                                                     |
-|          |               | 7.2 TBA                                              |                                                                                                     |
-|          |               | 7.3 TBA                                              |                                                                                                     |   
+|          |               |                                                      |                                                                                                     |
+| 7        | January TBA   | 7.1 MIDTERM EXAM                                     |                                                                                                     |
+|          |               | 7.2 MIDTERM EXAM                                     |                                                                                                     |
+|          |               | 7.3 MIDTERM EXAM                                     |                                                                                                     |   
 |          |               |                                                      |                                                                                                     |
 | 8        | January TBA   | 8.1 TBA                                              | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
 |          |               | 8.2 TBA                                              |                                                                                                     |
