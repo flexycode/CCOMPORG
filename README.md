@@ -189,10 +189,13 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 
 ## [12.0.1] - 2024-12-19    
 ### Added  
-- ✨ Long Quiz 
+- ✨ Long Quiz
+
+## [01.0.1] - 2025-01-16    
+### Added  
+- ✨ Mid Term Exam
 
 🧊 CCOMPORG
-
 ```
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
