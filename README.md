@@ -195,6 +195,10 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 ### Added  
 - ✨ Mid Term Exam
 
+## [01.0.1] - 2025-01-23    
+### Added  
+- ✨ Logic Gates Arduino Kit Demo
+
 🧊 CCOMPORG
 ```
 
