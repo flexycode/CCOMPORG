@@ -143,12 +143,16 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 # 🔭 Acknowledgements   
 
-### ✨ Professor TBA
+### ✨ Professor
 
 Professor Jay Abaleta is a Senior Software Engineer and esteemed faculty member at National University. With a strong background in teaching the core principles and advanced concepts of Java, he is highly regarded in the field. In addition to his role at National University, Prof. Abaleta also serves as a Professor at Adamson University and as a lecturer of IT/CS at Arba Minch University, sharing his expertise with students worldwide. Having studied at St. Paul University Philippines, Prof. Abaleta brings a wealth of knowledge and experience to his teaching. Known for his friendly and approachable nature, Prof. Abaleta fosters a positive learning environment where students thrive. His dedication and passion for teaching have made him a beloved professor among his students.
 
 ### ✨ Give credit to where it's due
 I want to acknowledge that I have incorporated some of my professor's files and code into my work.
+
+### ✨ Colleague and friends
+
+I just wanted to take a moment to give thanks to [Luis Ryan](https://github.com/Yisaaaa) for the help with our COMPORG activity. His support and insights made a big difference, and I truly appreciate it. 
 
 # 📫 Changelogs
 ```
@@ -198,10 +202,27 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 ## [01.0.1] - 2025-01-23    
 ### Added  
 - ✨ Logic Gates Arduino Kit Demo
+- ✨ Activity 1 
 
 ## [01.0.1] - 2025-01-27    
 ### Added  
-- ✨ Add folder Week 6 - [NOT, AND, OR] GATE 
+- ✨ Added Week 6 - Logical Expression [NOT, AND, OR] GATE
+- ✨ Activity 2
+
+## [01.0.1] - 2025-01-30    
+### Added  
+- ✨ Added Week 7 - Sensitive Alarm Trigger
+- ✨ Activity 3
+
+## [02.0.1] - 2025-02-03    
+### Added  
+- ✨ Added Week 8 - 7 Segment using IC4026 Decoder
+- ✨ Activity 4
+
+## [01.0.1] - 2025-06-03    
+### Added  
+- ✨ Added Week 9 - LED Blinking using 555-Timer
+- ✨ Activity 5
 
 🧊 CCOMPORG
 ```
