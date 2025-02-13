@@ -199,6 +199,10 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 ### Added  
 - ✨ Logic Gates Arduino Kit Demo
 
+## [01.0.1] - 2025-01-27    
+### Added  
+- ✨ Add folder Week 6 - [NOT, AND, OR] GATE 
+
 🧊 CCOMPORG
 ```
 
