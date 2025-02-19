@@ -94,15 +94,15 @@ https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/
 |          |               | 7.2 MIDTERM EXAM                                     |                                                                                                     |
 |          |               | 7.3 MIDTERM EXAM                                     |                                                                                                     |   
 |          |               |                                                      |                                                                                                     |
-| 8        | January TBA   | 8.1 TBA                                              | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
-|          |               | 8.2 TBA                                              |                                                                                                     |
-| 9        | January TBA   | 9.1 TBA                                              |                                                                                                     |
-|          |               | 9.1 TBA                                              |                                                                                                     |
+| 8        | January TBA   | 8.1 Logic Gates                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCOMPORG)                 |
+|          |               | 8.2 Logic Gates                                      |                                                                                                     |
+| 9        | January TBA   | 9.1 Logic Expression &                               |                                                                                                     |
+|          |               | 9.1 Truth Table from Circuit                         |                                                                                                     |
 |          |               |                                                      |                                                                                                    |
-| 10       | January TBA   | 10.1 Graph Definition                                | [Kindly give my repo_a star here💫](https://github.com/flexycode/CCOMPORG)                        |
-|          |               | 10.2 Graph Application                               |                                                                                                    |
-| 11       | January TBA   | 11.1 Graph Representation                            |                                                                                                    |
-|          |               | 11.2 Graph Traversal                                 |                                                                                                    |
+| 10       | February TBA  | 10.1 Logic Diagram                                   | [Kindly give my repo_a star here💫](https://github.com/flexycode/CCOMPORG)                        |
+|          |               | 10.2 Logic Diagram                                   |                                                                                                    |
+| 11       | February TBA  | 11.1 TBA                                             |                                                                                                    |
+|          |               | 11.2 TBA                                             |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
 | 12       | February TBA  | Presentation of Final Project                        | [Kindly give my_repo a star here💫](https://github.com/robitussin/CCOMPORG)                        |
 |          | February TBA  |                                                      |                                                                                                    |
@@ -154,6 +154,19 @@ I want to acknowledge that I have incorporated some of my professor's files and 
 
 I just wanted to take a moment to give thanks to [Luis Ryan](https://github.com/Yisaaaa) for the help with our COMPORG activity. His support and insights made a big difference, and I truly appreciate it. 
 
+### ✨ Youtube Channel 
+
+#### ✨ Youtube Channel: 
+- [Spanning Tree](https://www.youtube.com/watch?v=INEtYZqtjTo)
+- [Computer Science Lessons](https://www.youtube.com/watch?v=BnB2m1nXZ84)
+- [Mandy Elmore](https://www.youtube.com/@MandyTCTC)
+- [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)
+- [Core Dumped](https://www.youtube.com/watch?v=HjneAhCy2N4)
+- [Abelardo Pardo](https://www.youtube.com/watch?v=cblZ7Rdaxog)
+
+#### ✨ Github:
+- [SebLague](https://github.com/SebLague/Digital-Logic-Sim)
+
 # 📫 Changelogs
 ```
 ## [9.0.4] - 2024-09-22     
@@ -200,28 +213,31 @@ I just wanted to take a moment to give thanks to [Luis Ryan](https://github.com/
 - ✨ Mid Term Exam
 
 ## [01.0.1] - 2025-01-23    
-### Added  
+### Added
+- ✨ Added Week 6 - Logic Gates
 - ✨ Logic Gates Arduino Kit Demo
 - ✨ Activity 1 
 
 ## [01.0.1] - 2025-01-27    
 ### Added  
-- ✨ Added Week 6 - Logical Expression [NOT, AND, OR] GATE
+- ✨ Added Week 7 - Logical Expression [NOT, AND, OR] GATE
+- ✨ Logical Expression and Truth Table from circuits
 - ✨ Activity 2
 
 ## [01.0.1] - 2025-01-30    
 ### Added  
-- ✨ Added Week 7 - Sensitive Alarm Trigger
+- ✨ Added Week 8 - Sensitive Alarm Trigger
+- ✨ Logic Diagram
 - ✨ Activity 3
 
 ## [02.0.1] - 2025-02-03    
 ### Added  
-- ✨ Added Week 8 - 7 Segment using IC4026 Decoder
+- ✨ Added Week 9 - 7 Segment using IC4026 Decoder
 - ✨ Activity 4
 
 ## [01.0.1] - 2025-06-03    
 ### Added  
-- ✨ Added Week 9 - LED Blinking using 555-Timer
+- ✨ Added Week 10 - LED Blinking using 555-Timer
 - ✨ Activity 5
 
 🧊 CCOMPORG
@@ -238,7 +254,7 @@ I just wanted to take a moment to give thanks to [Luis Ryan](https://github.com/
 
 <!-- Genshin Impact -->
 <div align="center">
-<img src="https://media.giphy.com/media/qr4CNpxIL6wwNUYZsL/giphy.gif?cid=ecf05e47iqq0k4rx0kv1fb3w4hl8dja3ouiqzx4vz1665i6b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/wcVQHVg5lYsCDkxz4J/giphy.gif?cid=ecf05e47yz4oc4o3pl85zwujqt2e6xumb1fhticxniefaqmu&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
 </div>
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
@@ -251,4 +267,5 @@ I just wanted to take a moment to give thanks to [Luis Ryan](https://github.com/
 <br>
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
