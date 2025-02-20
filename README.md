@@ -163,6 +163,7 @@ I just wanted to take a moment to give thanks to [Luis Ryan](https://github.com/
 - [Sebastian Lague](https://www.youtube.com/watch?v=I0-izyq6q5s)
 - [Core Dumped](https://www.youtube.com/watch?v=HjneAhCy2N4)
 - [Abelardo Pardo](https://www.youtube.com/watch?v=cblZ7Rdaxog)
+- [Askarzadeh Engineering](https://www.youtube.com/watch?v=HKMHDwX4W_E)
 
 #### ✨ Github:
 - [SebLague](https://github.com/SebLague/Digital-Logic-Sim)
