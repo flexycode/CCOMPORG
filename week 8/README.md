@@ -102,9 +102,13 @@ Happy prototyping!
 Boolean Expressions to Circuits
 - [Abelardo Pardo](https://www.youtube.com/watch?v=cblZ7Rdaxog)
 
+Logic Gates and Circuit Simplification Tutorial
+- [TechRetox](https://www.youtube.com/watch?v=q2OBYz3K6PM)
+
 #### ✨ Github:
 - [SebLague](https://github.com/SebLague/Digital-Logic-Sim)
 
+👷 Logic Diagram
 
 <!-- End point line insert Thanks for visiting enjoy your day, feel free to modify this  -->
 ---
