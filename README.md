@@ -241,10 +241,10 @@ I just wanted to take a moment to give thanks to [Luis Ryan](https://github.com/
 - ✨ Added Week 10 - LED Blinking using 555-Timer
 - ✨ Activity 5
 
-## [01.0.1] - 2025-03-03    
+## [01.0.1] - 2025-03-07    
 ### Added  
 - ✨ Added Week 11 - FlipFlop
-- ✨ Final Project
+- ✨ Final Project 
 
 🧊 CCOMPORG
 ```
